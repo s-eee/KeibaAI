@@ -3,4 +3,4 @@
 https://qiita.com/s-eee/private/b2b832ca2838e543fbec
 
 ## 予想
-(KeibaAI/predict.ipynb)
+[predict.py](KeibaAI/predict.ipynb)
